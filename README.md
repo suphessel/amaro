@@ -1,4 +1,4 @@
-# Amaro :star
+# Amaro 
 
 Projeto backend desenvolvido no bootcamp da Labenu. \
 Criação de API para cadastro e consulta de produtos da Loja Amaro.
